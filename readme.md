@@ -19,7 +19,7 @@ python -m venv venv
 ## Install the packages 
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## Runserver
