@@ -4,6 +4,11 @@
 git clone https://github.com/cmr-web/week13.git
 ```
 
+## Go to project
+
+```bash
+cd week13
+
 ## Setup virtual environment
 
 ```bash
