@@ -8,6 +8,7 @@ git clone https://github.com/cmr-web/week13.git
 
 ```bash
 cd week13
+```
 
 ## Setup virtual environment
 
